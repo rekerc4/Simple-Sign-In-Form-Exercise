@@ -21,13 +21,14 @@ body{
     width: 25%;
     background: white; 
     box-shadow: #7A7376 0px 0px 30px -10px; 
-    padding: 50px 25px 50px 25px; 
+    padding: 60px 25px 60px 25px; 
 }
 
 .welcome{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 0px 0px 10px 0px; 
+    font-weight: lighter;
 }
 
 .subtitle{
@@ -49,6 +50,7 @@ body{
     border-bottom: grey 1px solid; 
     padding: 5px; 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em; 
 }
 
 .forgot{
