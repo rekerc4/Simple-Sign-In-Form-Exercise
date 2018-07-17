@@ -5,16 +5,16 @@
 
 html{
     font-size: 10px;
-}
+}/*Set Font Size to smaller size that matches the model more closely*/
 
 a{
    text-decoration: none; 
    color: #C8C4C2; 
-}
+}/*Eliminate Text decoration and set text to the light grey given by the color pallete.*/
 
 body{
     background: #DCEAF0;
-}
+}/*Set background to the light blue given by the color pallete.*/
 
 .centered{
     margin: 50px auto 50px auto;
@@ -22,7 +22,7 @@ body{
     background: white; 
     box-shadow: #7A7376 0px 0px 30px -10px; 
     padding: 60px 25px 60px 25px; 
-}
+}/*centering div for main element that is the sign up form*/
 
 .welcome{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -68,7 +68,7 @@ body{
     margin: 10px auto 5px auto;
     width: 85%;
     padding: 10px;
-    font-size: 1.5em; 
+    font-size: 1.25em; 
 }
 
 .noaccount{
