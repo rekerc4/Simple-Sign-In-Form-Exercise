@@ -20,8 +20,8 @@ body{
     margin: 50px auto 50px auto;
     width: 25%;
     background: white; 
-    box-shadow: #C8C4C 10px 10px 10px 10px; 
-    padding: 25px 50px 25px 50px; 
+    box-shadow: #7A7376 0px 0px 30px -10px; 
+    padding: 50px 25px 50px 25px; 
 }
 
 .welcome{
@@ -53,7 +53,7 @@ body{
 
 .forgot{
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 80%; 
 
 }
