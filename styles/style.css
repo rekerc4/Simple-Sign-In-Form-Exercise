@@ -21,7 +21,7 @@ body{
     width: 25%;
     background: white; 
     box-shadow: #C8C4C 10px 10px 10px 10px; 
-    padding: 25px; 
+    padding: 25px 50px 25px 50px; 
 }
 
 .welcome{
@@ -43,7 +43,7 @@ body{
 
 .sign{
     display: block; 
-    margin: 10px auto 10px auto;
+    margin: 20px auto 30px auto;
     width: 80%;
     border: none;
     border-bottom: grey 1px solid; 
@@ -53,9 +53,9 @@ body{
 
 .forgot{
     position: absolute;
-    top: 0px;
-    left: 0px; 
-    
+    top: 40%;
+    left: 80%; 
+
 }
 
 .in{
@@ -67,4 +67,8 @@ body{
     width: 85%;
     padding: 10px;
     font-size: 1.5em; 
+}
+
+.noaccount{
+    text-align: center;
 }
