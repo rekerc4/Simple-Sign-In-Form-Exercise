@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-}
+} /*Eliminate defualt margin and padding applied by browser*/
 
 html{
     font-size: 10px;
@@ -73,4 +73,4 @@ body{
 
 .noaccount{
     text-align: center;
-}
+} /* text aligned to center */
